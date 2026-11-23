@@ -1,8 +1,5 @@
-Abstract of the Project:
-Four different solutions to the SLAM problem; namely RTABMap,
-ORB SLAM3, LeGO-LOAM and an offline 3D graph slam were
-implemented on the KITTI dataset, wherein ORB-SLAM3 performed
-the best. The different issues and challenges faced were recorded and
-satisfactory results were obtained. The primary objective of road sign
-detection was also successfully completed and the signs were marked
-on the generated trajectories.
+# Comparative Analysis of SLAM and Visual SLAM
+
+The project compares RTAB-Map, ORB-SLAM3, LeGO-LOAM, and offline 3D graph SLAM on KITTI data. The authors report that ORB-SLAM3 performed best in their experiments.
+
+Read the [full report](Report_TBDgroup-2.pdf) for the evaluation conditions and implementation discussion. Running the experiments requires the KITTI inputs and the respective implementations separately.
